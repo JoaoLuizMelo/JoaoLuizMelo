@@ -18,5 +18,8 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lu%C3%ADz-21a41122b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo-Linkedin"></a>
 <a href="https://instagram.com/luizjoao81?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo-Instagram"></a>
 <br/>
-<br/>
+
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuizMelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizMelo&show_icons=true&theme=transparent)
